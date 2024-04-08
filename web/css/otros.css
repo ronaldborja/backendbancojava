@@ -1,0 +1,98 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    background-color: #21130d;
+    color: #eeeee4
+}
+
+body {
+    margin-top: 200px;
+}
+
+h1 {
+    font-size: 35px;
+    margin-bottom: 5px;
+}
+
+
+#accion {
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+    margin-right: 5px;
+    font-size: 15px;
+    background-color: gold;
+    color:#21130d;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#accion:hover {
+    text-decoration: underline;
+    
+}
+
+#clean {
+    border-radius: 20px;
+    margin-right: 15px;
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    background-color: gold;
+    color:#21130d;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+#clean:hover {
+    text-decoration: underline; 
+}
+
+
+#editar {
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    background-color: gold;
+    color:#21130d;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-right: 15px;
+}
+
+#editar:hover {
+    text-decoration: underline; 
+}
+
+
+#eliminar {
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    background-color: gold;
+    color:#21130d;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+#eliminar:hover {
+    text-decoration: underline; 
+}
+
+
+
+span {
+    color:aliceblue;
+    align-items: center;
+    margin-left: 50px;
+
+}
+
