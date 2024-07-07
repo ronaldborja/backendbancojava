@@ -10,7 +10,7 @@ This project is part of a web development course from the Universidad de Cartage
 
 ## Entity Relationship Diagram for the Database
 Note: The database was implemented using MySQL.
-![imagen](https://github.com/ronaldborja/backendbancojava/assets/75533154/20dcc25e-821f-4771-95a8-88a5d3789cc1)
+![imagen](https://github.com/ronaldborja/backendbancojava/assets/75533154/129e1377-22fb-4479-8e71-3849ccf0d8e9)
 
 ## Final Result of The Project
 ![imagen](https://github.com/ronaldborja/backendbancojava/assets/75533154/50d2d3ea-fe7b-4fbe-af40-a96e30f5db2c)
