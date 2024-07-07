@@ -9,6 +9,7 @@ This project is part of a web development course from the Universidad de Cartage
 * Using the basics of HTML and CSS to create the view.
 
 ## Entity Relationship Diagram for the Database
+Note: The database was implemented using MySQL.
 ![imagen](https://github.com/ronaldborja/backendbancojava/assets/75533154/20dcc25e-821f-4771-95a8-88a5d3789cc1)
 
 ## Final Result of The Project
