@@ -6,7 +6,7 @@ This project is part of a web development course from the Universidad de Cartage
 * Analysis of the functional and non-functional requirements of the web application.
 * Database modelling to facilitate its implementation. 
 * Application of the MVC pattern to organize the code and guarantee its scalability.
-* Using the basics of HTML and CSS to create the view
+* Using the basics of HTML and CSS to create the view.
 
 ## Entity Relationship Diagram for the Database
 ![imagen](https://github.com/ronaldborja/backendbancojava/assets/75533154/20dcc25e-821f-4771-95a8-88a5d3789cc1)
